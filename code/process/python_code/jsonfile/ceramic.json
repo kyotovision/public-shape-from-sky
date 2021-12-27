@@ -1,0 +1,25 @@
+{
+    "IMAGE_PATH" : "../../../data/sky/out/HDR/ceramic1020/",
+    "save_file_name" : "ceramic",
+
+    "refractive_index" : 1.8,
+    "scene_list" : ["1120","1220","1320","1420","1520"],
+    "sun_dir_file" : "sundir_data/ceramic1020_sundir.npy",
+    "DoLPsmax_list" : [0.4,0.4,0.4,0.4,0.4,0.5],
+    "sky_model_params" : [-1.0, -0.32, 10, -3.0, 0.45],
+    "zenith" : [0, 0],
+
+    "index_list" : [0,4],
+    "pixel_interval_1" : [40,40],
+    "step1" : 4,
+    "pixel_range1" : 2,
+    "pixel_interval_2" : [1,1],
+    "step2" : [1],
+    "pixel_range2" : [1],
+
+    "normal_init" : [-150,90],
+    "I_d_init" : 1,
+    "t_d_init" : 1,
+    "rho_d_init" : 1e-9,
+    "I_zeta_init" : 1
+}
