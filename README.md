@@ -15,4 +15,8 @@ Please note that this is research software and may contain bugs or other issues 
 }
 ```
 
+## Usage
 
+Please open the following Jupyter notebooks in the `code/process/python_code/` directory.
+* [`shape_from_sky.ipynb`](code/process/python_code/shape_from_sky.ipynb)
+* [`shape_from_sky_spatially_varying.ipynb`](code/process/python_code/shape_from_sky_spatially_varying.ipynb)
