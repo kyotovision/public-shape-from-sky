@@ -41,7 +41,7 @@ Getting image source signatures
 INFO:    Creating SIF file...
 INFO:    Build complete: ./sfsky.sif
 ```
-The file size of the generated container file (`sfsky.sif` in this example) will be around 590MB.
+The file size of the generated container file (`sfsky.sif` in this example) will be around 560MB.
 
 ## Usage
 
