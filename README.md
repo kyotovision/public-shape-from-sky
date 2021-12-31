@@ -1,4 +1,4 @@
-# Shape from Sky: Polarimetric Normal Recovery Under the Sky
+# Shape from Sky: Polarimetric Normal Recovery Under the Sky, CVPR2021
 
 This repository provides an inplementation of our paper [Shape From Sky: Polarimetric Normal Recovery Under the Sky](https://openaccess.thecvf.com/content/CVPR2021/html/Ichikawa_Shape_From_Sky_Polarimetric_Normal_Recovery_Under_the_Sky_CVPR_2021_paper.html) in CVPR 2021.  If you find our work useful in your research please consider citing our paper.
 
