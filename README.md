@@ -17,7 +17,7 @@ Please note that this is research software and may contain bugs or other issues 
 
 ## Prerequisites
 
-We tested our code with Python 3.8.10 on Ubuntu 20.04 LTS.  Our code depends:
+We tested our code with Python 3.8.10 on Ubuntu 20.04 LTS.  Our code depends on the following modules.
 * bm3d
 * matplotlib
 * numba
